@@ -1,0 +1,10 @@
+authtoken: 2R5738oK1vVnXPW2LbJ3QLsfgFH_4a4MJTnupNGKfDwoPiHPh
+
+tunnels:
+
+  rdp:
+
+    proto: tcp
+
+    addr: 3389
+
